@@ -1,0 +1,2 @@
+include ':app', ':ngcslibraryy'
+rootProject.name='NGCSLibrary'
